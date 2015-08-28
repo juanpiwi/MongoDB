@@ -1,8 +1,8 @@
 ## Crear DB y Colecciones
 
 * use <nombre-db> (crear DB)
-* db (BD actual)
-* show dbs (Todas la BD)
+* db (DB actual)
+* show dbs (Todas la DB)
 
 ## Tamaño (bytes)
 
