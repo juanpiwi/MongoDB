@@ -1,3 +1,9 @@
+## Crear DB y Colecciones
+
+* use <nombre-db> (crear DB)
+* db (BD actual)
+* show dbs (Todas la BD)
+
 ## Tamaño (bytes)
 
 * db.collection.stats(tamaño)
